@@ -1,0 +1,2 @@
+class CreateJoinTableOwnerCompany < ApplicationRecord
+end
